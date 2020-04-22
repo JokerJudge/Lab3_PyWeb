@@ -1,0 +1,230 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-04-12 18:59+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n"
+"%100>=11 && n%100<=14)? 2 : 3);\n"
+
+#: .\templates\shop\base.html:64
+msgid "Menu"
+msgstr "Меню"
+
+#: .\templates\shop\base.html:69
+msgid "HomePage"
+msgstr "Главная"
+
+#: .\templates\shop\base.html:71 .\templates\shop\base.html:73
+msgid "Shop"
+msgstr "Магазин"
+
+#: .\templates\shop\base.html:74
+msgid "Wishlist"
+msgstr "Вишлист"
+
+#: .\templates\shop\base.html:75
+msgid "Single Product"
+msgstr "Один продукт"
+
+#: .\templates\shop\base.html:76
+msgid "Cart"
+msgstr "Корзина"
+
+#: .\templates\shop\base.html:77
+msgid "Checkout"
+msgstr "Выйти"
+
+#: .\templates\shop\base.html:80
+msgid "About"
+msgstr "О нас"
+
+#: .\templates\shop\base.html:81
+msgid "Blog"
+msgstr "Блог"
+
+#: .\templates\shop\base.html:82
+msgid "Contact"
+msgstr "Контакты"
+
+#: .\templates\shop\index.html:51
+msgid "Free Shipping"
+msgstr "Бесплатная Доставка"
+
+#: .\templates\shop\index.html:62
+msgid "Always Fresh"
+msgstr "Всегда Свежие"
+
+#: .\templates\shop\index.html:63
+msgid "Product well package"
+msgstr "Хорошо упакованные"
+
+#: .\templates\shop\index.html:73
+msgid "Superior Quality"
+msgstr "Высшее Качество"
+
+#: .\templates\shop\index.html:74
+msgid "Quality Products"
+msgstr "Качественные Продукты"
+
+#: .\templates\shop\index.html:84 .\templates\shop\index.html:85
+msgid "Support"
+msgstr "Поддержка"
+
+#: .\templates\shop\index.html:101 .\templates\shop\index.html:115
+msgid "Vegetables"
+msgstr "Овощи"
+
+#: .\templates\shop\index.html:102
+msgid "Protect the health of every home"
+msgstr "Защити здоровье своих близких"
+
+#: .\templates\shop\index.html:103
+#, fuzzy
+#| msgid "Shop"
+msgid "Shop now"
+msgstr "Купить сейчас"
+
+#: .\templates\shop\index.html:110
+msgid "Fruits"
+msgstr "Фрукты"
+
+#: .\templates\shop\index.html:125
+msgid "Juices"
+msgstr "Соки"
+
+#: .\templates\shop\index.html:130
+msgid "Dried"
+msgstr "Сухофрукты"
+
+#: .\templates\shop\index.html:142
+msgid "Featured Products"
+msgstr "Продукты"
+
+#: .\templates\shop\index.html:143
+msgid "Our Products"
+msgstr "Наши Продукты"
+
+#: .\templates\shop\index.html:144 .\templates\shop\index.html:388
+msgid ""
+"Far far away, behind the word mountains, far from the countries Vokalia and "
+"Consonantia"
+msgstr ""
+"Куча какого-то непонятного текста. И что-то еще"
+
+#: .\templates\shop\index.html:157
+msgid "Bell Pepper"
+msgstr "Сладкий Перец"
+
+#: .\templates\shop\index.html:185
+msgid "Strawberry"
+msgstr "Клубника"
+
+#: .\templates\shop\index.html:213
+msgid "Green Beans"
+msgstr "Зеленый горошек"
+
+#: .\templates\shop\index.html:241
+msgid "Purple Cabbage"
+msgstr "Капуста"
+
+#: .\templates\shop\index.html:272
+msgid "Tomatoe"
+msgstr "Томаты"
+
+#: .\templates\shop\index.html:300
+msgid "Brocolli"
+msgstr "Брокколи"
+
+#: .\templates\shop\index.html:328
+msgid "Carrots"
+msgstr "Морковь"
+
+#: .\templates\shop\index.html:356
+msgid "Fruit Juice"
+msgstr "Фруктовый Сок"
+
+#: .\templates\shop\index.html:386
+msgid "Best Price For You"
+msgstr "Лучшая Цена Для Вас"
+
+#: .\templates\shop\index.html:387
+msgid "Deal of the day"
+msgstr "Предложение Дня"
+
+#: .\templates\shop\index.html:389
+msgid "Spinach"
+msgstr "Шпинат"
+
+#: .\templates\shop\index.html:390
+msgid "now $5 only"
+msgstr "сейчас всего за $5"
+
+#: .\templates\shop\index.html:406
+msgid "Testimony"
+msgstr "Отзывы"
+
+#: .\templates\shop\index.html:407
+msgid "Our satisfied customer says"
+msgstr "Наши довольные клиенты говорят о нас"
+
+#: .\templates\shop\index.html:408
+msgid ""
+"Far far away, behind the word mountains, far from the countries Vokalia and "
+"Consonantia, there live the blind texts. Separated they live in"
+msgstr ""
+"Куча какого-то непонятного текста. И что-то еще"
+
+#: .\templates\shop\index.html:422
+msgid ""
+"Far far away, behind the word mountains, far from the countries Vokalia and "
+"Consonantia, there live the blind texts"
+msgstr ""
+"Куча какого-то непонятного текста. И что-то еще"
+
+#: .\templates\shop\index.html:423 .\templates\shop\index.html:437
+#: .\templates\shop\index.html:451 .\templates\shop\index.html:465
+#: .\templates\shop\index.html:479
+msgid "Garreth Smith"
+msgstr "Путин Владимир"
+
+#: .\templates\shop\index.html:424
+msgid "Marketing Manager"
+msgstr "Диктатор России"
+
+#: .\templates\shop\index.html:436 .\templates\shop\index.html:450
+#: .\templates\shop\index.html:464 .\templates\shop\index.html:478
+msgid ""
+"Far far away, behind the word mountains, far from the countries Vokalia and "
+"Consonantia, there live the blind texts."
+msgstr ""
+"Куча какого-то непонятного текста. И что-то еще"
+
+#: .\templates\shop\index.html:438
+msgid "Interface Designer"
+msgstr "Раб на галерах"
+
+#: .\templates\shop\index.html:452
+msgid "UI Designer"
+msgstr "Кооператив Озеро"
+
+#: .\templates\shop\index.html:466
+msgid "Web Developer"
+msgstr "Разработчик Чебурнета"
+
+#: .\templates\shop\index.html:480
+msgid "System Analyst"
+msgstr "Властелин Статистики"
